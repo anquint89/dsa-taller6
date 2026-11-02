@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.py[cod]
+.pytest_cache/
+.tox/
+env-api/
+.venv/
+Evidencias/
+dsa_taller6_apis.pdf
+Taller6_Parte1_borrador.md
